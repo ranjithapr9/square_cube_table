@@ -1,0 +1,18 @@
+td,th
+{
+   background-color:black;
+   text-align: center;
+   color: white;
+   border-radius: 5px;
+   height: 24px;
+   width:50px;
+}
+
+table
+ {
+  height: 50px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: ORANGE;
+}
